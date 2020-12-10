@@ -1,9 +1,11 @@
-# About 갓댕
+# About 갓댕🐶
 
 ## 프로젝트에 대한 소개
+
 AR 기반 반려견 입양 전 교육 시뮬레이션 어플리케이션
 
 ### 문제 인식) 
+
 통계에 따르면 하루에 버려지는 유기견이 약 250마리이며 입양 및 파양에 대한 엄격한 제도가 존재하지 않음. 
 
 실제로 입양과 파양을 무료로 해주는 곳도 많아 쉽게 버려지는 환경에 놓여있음. 
@@ -14,10 +16,12 @@ AR 기반 반려견 입양 전 교육 시뮬레이션 어플리케이션
 
 
 ### 구현 방법) 
+
 Android을 기반으로 하며, Unity의 AR Foundation과 뷰포리아SDK를 연동하여 AR 구현, github로 버전관리
 
 
 ### 기대효과) 
+
 파양되는 유기견의 수를 줄이는 것이 이 앱을 통해 기대하는 가장 큰 효과이다.
 
 또한, 예비입양자가 미리 반려동물과의 생활을 경험해보도록 하면서, 반려견을 생명, 가족으로 바라보는 인식을 정착시키는 데에 도움을 줄 것으로 예상한다.
@@ -27,11 +31,13 @@ Android을 기반으로 하며, Unity의 AR Foundation과 뷰포리아SDK를 연
 
 ## 시연 영상
 
-(영상 링크)
+https://youtu.be/e7Nh1U5oCXI
 
 
 ## 각 기술에 대한 팀원들의 기술 블로그 내용
+
 1) 손 인식 기술
+  - https://yekim0808.tistory.com/5
 
 
 2) 평평한 바닥 인식 기술
@@ -41,6 +47,9 @@ Android을 기반으로 하며, Unity의 AR Foundation과 뷰포리아SDK를 연
 ## Reference
 
 * https://library.vuforia.com/content/vuforia-library/en/articles/Solution/ground-plane-guide.html
+* https://library.vuforia.com/content/vuforia-library/en/articles/Solution/How-To-Work-with-Cloud-Databases.html
+* https://www.youtube.com/watch?v=FWStp3sg3Ps&t=661s
 
 
 ## License
+Vuforia Engine
